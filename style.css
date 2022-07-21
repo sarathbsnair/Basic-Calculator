@@ -1,0 +1,27 @@
+.main-body{
+    height:440px;
+    width:400px;
+    background:gray;
+    margin-left: 400px;
+    margin-top:100px
+}
+#Screen{
+    margin-top:20px;
+    margin-left:45px;
+    width:300px;
+    height:45px
+}
+.buttondimention{
+    height:50px;
+    width:50px;
+    margin-left:37px;
+    margin-top:15px;
+    background:yellowgreen
+}
+.clearbutton{
+    height:50px;
+    width:50px;
+    margin-left:170px;
+    margin-top:15px;
+    background:coral
+}
